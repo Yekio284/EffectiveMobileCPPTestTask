@@ -20,7 +20,7 @@ ListNode* Deserializer::deserialize(std::ifstream &ifs) const {
         throw InvalidInputReadError("Invalid Input Read Error occured: can't read list size");
     }
 
-    if (listSize == 0) {
+    if (listSize == 0U) {
         return nullptr;
     }
 
