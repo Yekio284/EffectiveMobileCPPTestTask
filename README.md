@@ -1,6 +1,5 @@
 # EffectiveMobileCPPTestTask
-Тестовое задание на позицию Junior C++ Developer
-
+## Тестовое задание на позицию Junior C++ Developer
 
 **Инструкция:**
 
